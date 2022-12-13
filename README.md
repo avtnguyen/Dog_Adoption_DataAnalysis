@@ -41,9 +41,8 @@ Information about the data: This dataset of adoptable dogs in the US was collect
 
 ## References:
 * Raw data is obtained from [Kaggle](https://www.kaggle.com/datasets/whenamancodes/dog-adoption), [US population census](https://www.census.gov/newsroom/press-kits/2019/national-state-estimates.html)
-* For further reading about dog shelters: 
-https://rescuedoghome.com/why-are-there-so-many-pit-bulls-and-chihuahuas-in-shelters/#Chihuahuas_in_Shelters
-https://globalnews.ca/news/8997583/canadian-animal-shelters-challenges/
+* For further reading about dog shelters: [Challenges in animal shelters](https://globalnews.ca/news/8997583/canadian-animal-shelters-challenges/),
+[Popular breeds in dog shelters](https://rescuedoghome.com/why-are-there-so-many-pit-bulls-and-chihuahuas-in-shelters/#Chihuahuas_in_Shelters)
 
 ## Contributing Members
 
