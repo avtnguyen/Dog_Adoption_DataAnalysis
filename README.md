@@ -37,7 +37,7 @@ Information about the data: This dataset of adoptable dogs in the US was collect
 ## Getting Started
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is can be dowloaded from [Kaggle](https://www.kaggle.com/datasets/whenamancodes/dog-adoption), [US population census](https://www.census.gov/newsroom/press-kits/2019/national-state-estimates.html)
-3. Data processing and visualization scripts are being kept [here](https://github.com/avtnguyen/BikeShare_DataAnalysis/blob/a74d16a693aa6295251c913d6494e8631f022b1b/BikeShareProject.Rmd)
+3. Data processing and visualization scripts are being kept [here](https://github.com/avtnguyen/Dog_Adoption_DataAnalysis/blob/main/Dog_Adoption_Data_Analysis_Project.ipynb)
 
 ## References:
 * Raw data is obtained from [Kaggle](https://www.kaggle.com/datasets/whenamancodes/dog-adoption), [US population census](https://www.census.gov/newsroom/press-kits/2019/national-state-estimates.html)
