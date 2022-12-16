@@ -1,5 +1,5 @@
 # Dog_Adoption_DataAnalysis
-
+<img src="https://github.com/avtnguyen/Dog_Adoption_DataAnalysis/blob/main/dog_shelter.jpg" width = 500>
 #### -- Project Status: [Completed]
 
 ## Project Objective
